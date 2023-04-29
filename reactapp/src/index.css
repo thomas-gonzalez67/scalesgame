@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css?family=Inconsolata&effect=anaglyph");
+@import url("https://fonts.googleapis.com/css?family=Play&effect=shadow-multiple");
+@import url("https://fonts.googleapis.com/css?family=Play&effect=emboss");
+@import url("https://fonts.googleapis.com/css?family=Orbitron&effect=3d");
