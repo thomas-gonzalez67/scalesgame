@@ -151,13 +151,13 @@ const Lobby = ({ connection, id,setGameScreen }) => {
 
                 <div className='flex flex-row justify-center'>
                     <button class="w-2/6 min-w-2/6 bg-blue-500 hover:bg-blue-400 text-white font-bold py-2 px-4 border-b-4 border-blue-700 hover:border-blue-500 rounded">
-                        Choose Picture
+                        No Work
                     </button>
 
                     <button onClick={()=>readyUp(id) } class="w-2/6 min-w-2/6 bg-red-500 hover:bg-red-400 text-white font-bold py-2 px-4 border-b-4 border-red-700  hover:border-red-500 rounded">
                         Ready
                     </button>
-                </div>
+                </div>  
             </div>
         </div>
     )
