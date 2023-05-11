@@ -20,7 +20,7 @@ const HomePage = ({ setModal, setMainScreen }) => {
 
                 <div className='flex flex-row place-content-center justify-evenly'>
                     <button onClick={() => setModal(true)} className="w-1/6 overflow-hidden bg-red-500 hover:bg-red-400 text-white font-bold py-2 px-4 border-b-4 border-red-700 hover:border-red-500 rounded">
-                        Instructions
+                        Instruct...
                     </button>
 
                     <button onClick={()=> setMainScreen('secondHome') } className=" wow w-1/6 bg-red-500 hover:bg-red-400 text-white font-bold py-2 px-4 border-b-4 border-red-700 hover:border-red-500 rounded">
